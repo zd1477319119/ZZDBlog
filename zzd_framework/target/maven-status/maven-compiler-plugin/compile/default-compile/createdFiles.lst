@@ -1,0 +1,3 @@
+com\zzd\mapper\ArticleMapper.class
+com\zzd\service\ArticleService.class
+com\zzd\service\impl\ArticleServiceImpl.class
